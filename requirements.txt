@@ -1,0 +1,6 @@
+gradio
+langchain
+openai=0.27.6
+pypdf
+chromadb
+tiktoken
